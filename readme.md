@@ -11,6 +11,6 @@
 
 ---
 ###### Créditos:
-- [Feito com o Minimalistic Astro Blog Theme](https://is.gd/XVOJfE)
+- [O modelo é um fork do lindo projeto Minimalistic Astro Blog Theme](https://is.gd/XVOJfE)
 - *Cŕeditos individuais estarão em cada publicação.*
 ---
