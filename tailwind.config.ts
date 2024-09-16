@@ -14,7 +14,7 @@ export default {
       colors: {
         lightModeBg: '#E6E6E6',
         darkModeBg: '#1A1A1A',
-        accentColor: '#A682FF',
+        accentColor: 'rgb(57, 86, 59)',
         lightModeText: 'black',
         darkModeText: 'white'
       },

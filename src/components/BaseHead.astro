@@ -24,19 +24,7 @@ const siteDescription = description ?? config.description
 <link rel="canonical" href={canonicalURL} />
 
 <!-- Primary Meta Tags -->
-<title>{title}</title>
+<title>{siteTitle}</title>
 <meta name="title" content={title} />
 <meta name="description" content={siteDescription} />
 <meta name="author" content={config.author} />
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content={Astro.url} />
-<meta property="og:title" content={siteTitle} />
-<meta property="og:description" content={siteDescription} />
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary" />
-<meta property="twitter:url" content={Astro.url} />
-<meta property="twitter:title" content={siteTitle} />
-<meta property="twitter:description" content={siteDescription} />
