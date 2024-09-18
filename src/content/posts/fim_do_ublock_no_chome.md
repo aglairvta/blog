@@ -1,11 +1,11 @@
 ---
-title: 'Fim do Ublock no Chrome?'
-description: 'Atualização da big tech para nevegadores baseados em chromium pode ser um risco à sua privacidade.'
+title: 'Fim do ublock no chrome?'
+description: 'Atualização da big tech para navegadores baseados em chromium pode ser um risco à sua privacidade.'
 pubDate: '15-08-2024'
 tags: ['tecnologia']
 ---
 
-Atualização da big tech para nevegadores baseados em chromium pode ser um risco à sua privacidade.
+Atualização da big tech para navegadores baseados em chromium pode ser um risco à sua privacidade.
 
 ![demo](../imgs/001.png)
 
