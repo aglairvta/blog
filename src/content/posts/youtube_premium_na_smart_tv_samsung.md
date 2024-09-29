@@ -1,5 +1,5 @@
 ---
-title: 'YouTube premium na smart TV Samsung'
+title: 'YouTube premium na smart tv samsung'
 description: 'Conheça como bloquear anúncios do YouTube na sua smart TV Samsung, que não é Android.'
 pubDate: '29-09-2024'
 tags: ['tecnologia']
