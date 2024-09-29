@@ -11,6 +11,7 @@
 `29/09/2024`
 
 - [YouTube premium na smart tv samsung ](https://is.gd/bKaW59)
+- [Android no linux](https://is.gd/Hgeo2N)
 
 ---
 ###### Créditos:
