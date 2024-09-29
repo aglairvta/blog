@@ -10,7 +10,7 @@
 
 `29/09/2024`
 
-- [YouTube premium na smart TV Samsung ](https://is.gd/bKaW59)
+- [YouTube premium na smart tv samsung ](https://is.gd/bKaW59)
 
 ---
 ###### Créditos:
